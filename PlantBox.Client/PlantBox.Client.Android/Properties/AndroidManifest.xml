@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="0.1.0.0" android:versionName="0.1.0.0" package="fr.ilyx.PlantBox.Client" android:installLocation="auto">
+	<uses-sdk android:minSdkVersion="21" android:targetSdkVersion="27" />
+	<uses-permission android:name="android.permission.INTERNET" />
+	<application android:label="PlantBox"></application>
+</manifest>

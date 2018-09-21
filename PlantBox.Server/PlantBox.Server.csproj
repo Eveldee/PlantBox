@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <Version>0.1.0.0</Version>
+    <Company>Ilyx</Company>
+    <Authors>Ilyx/Oxygel</Authors>
+    <PackageProjectUrl>https://github.com/eveldee0680/PlantBox</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/eveldee0680/PlantBox</RepositoryUrl>
+    <PackageLicenseUrl>https://github.com/eveldee0680/PlantBox/blob/master/LICENSE</PackageLicenseUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MessagePack" Version="1.7.3.4" />
+    <PackageReference Include="Unosquare.Raspberry.IO" Version="0.17.1" />
+    <PackageReference Include="Unosquare.RaspberryIO.Peripherals" Version="0.2.3" />
+  </ItemGroup>
+
+</Project>
