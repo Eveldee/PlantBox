@@ -4,7 +4,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/eveldee0680/PlantBox.svg)](https://github.com/eveldee0680/PlantBox/issues)
 
 PlantBox allow people to manage plants in a new way,
-it respond the following problems:
+it responds to the following problems:
 
 - You lack of time
 - You are absent
@@ -39,7 +39,7 @@ The server is a Raspberry Pi with appropriates captors:
 - Light sensor
 - Temperature sensor
 
-All input is read with [Unosquare library](https://github.com/unosquare/raspberryio).
+All input is read using [Unosquare library](https://github.com/unosquare/raspberryio).
 
 ### Client
 
@@ -61,7 +61,7 @@ Tasks list:
     - [ ] Communication with Client
 - Client
     - [ ] Interface
-    - [ ] Communicate with Server
+    - [ ] Communication with Server
 
 ## Features
 
